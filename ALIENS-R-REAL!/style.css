@@ -1,0 +1,26 @@
+h1 {
+    color: greenyellow;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline overline;
+}
+
+input {
+    color: black;
+    margin: 15px;
+}
+
+form {
+    color: white;
+}
+
+table {
+    background: rgb(65, 221, 226);
+}
+
+th {
+    background: lightgrey;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
